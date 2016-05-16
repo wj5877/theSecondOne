@@ -21,7 +21,7 @@ public class LvMenuItem {
         {
             type = TYPE_NORMAL;
         }
-//lalalalalalaljghj
+//lalalalalalal
         if (type != TYPE_SEPARATOR && TextUtils.isEmpty(name))
         {
             throw new IllegalArgumentException("you need set a name for a non-SEPARATOR item");
