@@ -26,7 +26,7 @@ public class LvMenuItem {
         {
             throw new IllegalArgumentException("you need set a name for a non-SEPARATOR item");
         }
-        //test for using git. just show me the way
+
 
 
     }
